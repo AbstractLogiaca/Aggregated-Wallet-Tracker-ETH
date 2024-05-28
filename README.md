@@ -81,7 +81,7 @@ Before you begin, ensure you have the following installed:
    - Run the following command to clone the repository:
 
      ```sh
-     git clone https://github.com/AbstractLogiaca/treasury_wallet_balance_checker.git
+     git clone https://github.com/AbstractLogiaca/Aggregated-Wallet-Tracker-ETH.git
      ```
 
    - Navigate into the cloned directory:
