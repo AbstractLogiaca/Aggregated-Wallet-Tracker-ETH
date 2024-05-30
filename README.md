@@ -87,7 +87,7 @@ Before you begin, ensure you have the following installed:
    - Navigate into the cloned directory:
 
      ```sh
-     cd treasury-wallet-tracker
+     cd Aggregated-Wallet-Tracker-ETH
      ```
 
 ## Installing Dependencies
@@ -143,7 +143,7 @@ Before you begin, ensure you have the following installed:
 1. **Navigate to the project directory** if not already there:
 
    ```sh
-   cd treasury-wallet-tracker
+   cd Aggregated-Wallet-Tracker-ETH
    ```
 
 2. **Run the script**:
