@@ -1,4 +1,4 @@
-
 requests==2.28.1
 web3==5.28.0
 python-telegram-bot==13.12
+parsimonious==0.8.1
